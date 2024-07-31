@@ -1,5 +1,5 @@
-import uvicorn
 import pandas as pd
+import uvicorn
 from fastapi import FastAPI
 from catboost import CatBoostClassifier
 
